@@ -6,3 +6,6 @@ Shift Baru: D
 
 ## Screenshot Hasil Aplikasi Pertemuan 1
 ![Screenshot aplikasi](SS_Pertemuan1.png)
+
+## Rekaman Hasil Aplikasi Pertemuan 2  
+![Rekaman aplikasi](Demo_Pertemuan2.gif)
